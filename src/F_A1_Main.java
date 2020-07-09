@@ -1,8 +1,6 @@
-import java.util.ArrayList;
+
 
 public class F_A1_Main {
-
-
 
 
     public static void main(String[] args) {
